@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is list one
 ================
 1
@@ -7,3 +8,5 @@ This is list one
 55
 66
 777
+=======
+>>>>>>> silence
